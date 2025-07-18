@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayan Majhi</h1>
 <h3 align="center">Turning ideas into interactive web apps</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/Y3D4CWX/developer-banner.png" alt="developer banner" width="80%" />
-</p>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sayan40020805&theme=tokyonight" alt="sayan23-sketch trophies"/>
