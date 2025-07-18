@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sayan23-sketch&theme=tokyonight" alt="sayan23-sketch trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sayan40020805&theme=tokyonight" alt="sayan23-sketch trophies"/>
   </a>
 </p>
 
@@ -96,9 +96,9 @@
 <h3>📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan23-sketch&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan40020805&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayan23-sketch&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayan40020805&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
